@@ -1,0 +1,19 @@
+{
+  "name": "websocket-benchmarker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "websocket-benchmarker": "./bin/websocket-benchmarker.js"
+  },
+  "author": "周定云",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^6.3.0",
+    "optimist": "^0.6.1",
+    "websocket": "^1.0.31"
+  }
+}
